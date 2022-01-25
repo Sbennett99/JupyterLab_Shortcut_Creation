@@ -25,3 +25,8 @@ cd {ex. C:\Users\S530995\Documents\WebMining}
 # starts jupyter lab
 jupyter lab
 ```
+
+
+### Credit
+
+https://www.tenforums.com/tutorials/97162-powershell-scripting-run-script-shortcut.html
